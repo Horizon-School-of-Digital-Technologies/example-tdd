@@ -5,7 +5,7 @@ import org.junit.Assert;
 
 public class ShoppingCartAppTest{	
 
-	//	Requirement: Create an empty shopping cart
+	//	Requirement: Create an empty shopping cart.
 	//	When: An empty shopping cart created.
 	//	Then: the product count of cart should be 0.
 
